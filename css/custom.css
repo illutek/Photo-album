@@ -30,6 +30,13 @@
     flex-wrap: wrap;
     justify-content: space-around;
 }
+
+@media only screen and (max-width: 600px) {
+    .photo-album__view-content {
+        flex-direction: column;
+    }
+}
+
 /*
 * De album covers zelf dus de flex items
 * views-view-unformatted--photo-albums.html.twig
@@ -78,7 +85,7 @@
 
 .photo {
     width: 100%;
- }
+}
 
 .photo__title {
     color: white;
@@ -89,7 +96,6 @@
     color: white;
     font-size: 20px;
 }
-
 
 /*
  * om Bartik dingen te overschrijven
@@ -109,4 +115,5 @@
         margin: 0;
     }
 }
+
 

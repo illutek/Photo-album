@@ -2,101 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3608ea39-d31b-42b9-9bae-651fc45a7b6c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/tabs-border.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/bartik.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bartik.breakpoints.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bartik.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bartik.libraries.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bartik.theme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/color/color.inc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/color/preview.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/color/preview.es6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/color/preview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/color/preview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/schema/bartik.schema.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/elements.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/block.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/book.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/breadcrumb.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/buttons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/captions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/comments.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/contextual.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/demo-block.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/dropbutton.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/featured-bottom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/featured-top.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/feed-icon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/field.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/forum.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/header.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/help.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/highlighted.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/image-button.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/item-list.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/list-group.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/list.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/main-content.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/messages.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/node-preview.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/node.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/page-title.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/pager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/password-suggestions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/primary-menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/search-form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/search-results.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/secondary-menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/shortcut.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/sidebar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/site-branding.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/site-footer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/skip-link.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/table.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/tablesort-indicator.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/text-formatted.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/toolbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/ui-dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/ui.widget.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/vertical-tabs.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/components/views.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/maintenance-page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/required.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/photo-album.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/block--search-form-block.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/block--system-branding-block.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/block--system-menu-block.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/block.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/comment.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/field--node--field-tags.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/form--search-block-form.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/maintenance-page.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/node.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page-title.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/photo/field--field-album-pics.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/photo/node--photo-album--full.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/photo/node--photo-album--teaser.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/photo/views-view--photo-albums.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/photo/views-view-unformatted--photo-albums.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/region--header.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/status-messages.html.twig" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -106,14 +13,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.46534654">
+    <splitter split-orientation="horizontal" split-proportion="0.42291668">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
           <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/custom.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1170">
-                  <caret line="51" column="25" lean-forward="false" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+                <state relative-caret-position="1022">
+                  <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
@@ -122,11 +29,21 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+          <file leaf-file-name="node--photo-album--full.html.twig" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/node--photo-album--full.html.twig">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1024">
+                  <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file leaf-file-name="views-view-unformatted--photo-albums.html.twig" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/templates/photo/views-view-unformatted--photo-albums.html.twig">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="572">
+                <state relative-caret-position="1120">
                   <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
                   <folding />
                 </state>
@@ -136,38 +53,44 @@
           <file leaf-file-name="field--field-album-pics.html.twig" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/templates/photo/field--field-album-pics.html.twig">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="286">
-                  <caret line="56" column="66" lean-forward="true" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="66" />
+                <state relative-caret-position="949">
+                  <caret line="69" column="14" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="69" selection-end-column="14" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="node--photo-album--full.html.twig" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/photo/node--photo-album--full.html.twig">
+          <file leaf-file-name="field--field-album-pics.html.twig" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/field--field-album-pics.html.twig">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="591">
-                  <caret line="83" column="42" lean-forward="true" selection-start-line="83" selection-start-column="42" selection-end-line="83" selection-end-column="42" />
+                <state relative-caret-position="461">
+                  <caret line="61" column="12" lean-forward="false" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="views-view--photo-albums.html.twig" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/templates/photo/views-view--photo-albums.html.twig">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="488">
-                  <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
-                  <folding />
+          <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/readme.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="1630">
+                    <caret line="57" column="114" lean-forward="false" selection-start-line="57" selection-start-column="114" selection-end-line="57" selection-end-column="114" />
+                    <folding>
+                      <marker date="1521558072052" expanded="true" signature="1450:1598" ph="{...}" />
+                      <marker date="1521558072052" expanded="true" signature="1889:1952" ph="{##{{ item.con...##}" />
+                    </folding>
+                  </first_editor>
+                  <second_editor />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="node--photo-album--teaser.html.twig" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/templates/photo/node--photo-album--teaser.html.twig">
+          <file leaf-file-name="node--photo-album--teaser.html.twig" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/node--photo-album--teaser.html.twig">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="99">
-                  <caret line="67" column="3" lean-forward="true" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
+                <state relative-caret-position="1196">
+                  <caret line="89" column="28" lean-forward="false" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="43" />
                   <folding />
                 </state>
               </provider>
@@ -201,8 +124,9 @@
         <option value="$PROJECT_DIR$/bartik.libraries.yml" />
         <option value="$PROJECT_DIR$/bartik.info.yml" />
         <option value="$PROJECT_DIR$/templates/field--field-album-pics.html.twig" />
-        <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/templates/photo/node--photo-album--teaser.html.twig" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
       </list>
     </option>
   </component>
@@ -248,7 +172,7 @@
             <path>
               <item name="bartik" type="b2602c69:ProjectViewProjectNode" />
               <item name="bartik" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="bartik" type="b2602c69:ProjectViewProjectNode" />
@@ -314,14 +238,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18695000" />
+    <option name="totallyTimeSpent" value="21076000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2552" y="22" width="1936" height="1176" extended-state="6" />
+    <frame x="0" y="35" width="3840" height="2125" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26354167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -331,13 +256,23 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26354167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,6 +286,92 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/photo-album.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="14" column="52" lean-forward="false" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/node--photo-album--full.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4080">
+          <caret line="80" column="35" lean-forward="false" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/field--field-album-pics.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3111">
+          <caret line="61" column="12" lean-forward="true" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/node--photo-album--teaser.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4539">
+          <caret line="89" column="28" lean-forward="true" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/views-view--photo-albums.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3264">
+          <caret line="64" column="29" lean-forward="true" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bartik.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bartik.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="63" column="23" lean-forward="false" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/node.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/photo-album.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="14" column="52" lean-forward="false" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/views-view-unformatted--photo-albums.html.twig" />
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="871">
+          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2444">
@@ -371,7 +392,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1742">
           <caret line="67" column="22" lean-forward="true" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -387,7 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2262">
           <caret line="87" column="42" lean-forward="true" selection-start-line="87" selection-start-column="42" selection-end-line="87" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -395,7 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2028">
           <caret line="78" column="20" lean-forward="true" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -427,7 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2080">
           <caret line="80" column="35" lean-forward="false" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -443,7 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2314">
           <caret line="89" column="28" lean-forward="true" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -451,7 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1664">
           <caret line="64" column="29" lean-forward="true" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -466,8 +481,8 @@
     <entry file="file://$PROJECT_DIR$/templates/image.html.twig" />
     <entry file="file://$PROJECT_DIR$/js/photo-album.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="714">
+          <caret line="14" column="52" lean-forward="false" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
           <folding />
         </state>
       </provider>
@@ -476,7 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1742">
           <caret line="67" column="22" lean-forward="true" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -494,50 +508,95 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/photo/views-view--photo-albums.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/photo/node--photo-album--full.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
+        <state relative-caret-position="967">
           <caret line="83" column="42" lean-forward="true" selection-start-line="83" selection-start-column="42" selection-end-line="83" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/photo/field--field-album-pics.html.twig">
+    <entry file="file://$PROJECT_DIR$/templates/views-view--photo-albums.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="56" column="66" lean-forward="true" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/photo/views-view--photo-albums.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="65" column="16" lean-forward="true" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/photo/views-view-unformatted--photo-albums.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="51" column="25" lean-forward="false" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
+        <state relative-caret-position="1122">
+          <caret line="64" column="29" lean-forward="false" selection-start-line="64" selection-start-column="29" selection-end-line="64" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/photo/node--photo-album--teaser.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="67" column="3" lean-forward="true" selection-start-line="67" selection-start-column="3" selection-end-line="67" selection-end-column="3" />
+        <state relative-caret-position="1272">
+          <caret line="90" column="49" lean-forward="true" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/node--photo-album--teaser.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="89" column="28" lean-forward="false" selection-start-line="89" selection-start-column="27" selection-end-line="89" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/field--field-album-pics.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="61" column="12" lean-forward="false" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/node--photo-album--full.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/photo/views-view-unformatted--photo-albums.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/photo/field--field-album-pics.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="949">
+          <caret line="69" column="14" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="69" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1630">
+            <caret line="57" column="114" lean-forward="false" selection-start-line="57" selection-start-column="114" selection-end-line="57" selection-end-column="114" />
+            <folding>
+              <marker date="1521558072052" expanded="true" signature="1450:1598" ph="{...}" />
+              <marker date="1521558072052" expanded="true" signature="1889:1952" ph="{##{{ item.con...##}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1022">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
           <folding />
         </state>
       </provider>
