@@ -1,0 +1,112 @@
+/*
+* CUSTOM CSS PRIMARLY FOR PHOTO ALBUM
+ */
+
+.photos__box--teaser {
+}
+
+.photos__teaser-img {
+}
+
+.photos__box--full {
+}
+
+/* node--photo-album--full.html.twig */
+.photos__content--intro {
+    color: white;
+    background: #0e69be;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.photos__content--img {
+}
+
+/* views-view--photo-albums.html.twig
+* om de album covers langs elkaar te plaatsen
+*/
+.photo-album__view-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+/*
+* De album covers zelf dus de flex items
+* views-view-unformatted--photo-albums.html.twig
+*/
+.photo-album__views-row {
+    width: 24%;
+    background: dodgerblue;
+    padding: 10px;
+    text-align: center;
+}
+
+/*
+* Parent container voor alle foto's
+* field--field-album-pics.html.twig
+*/
+.photo__field--items {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 10px;
+    align-items: stretch;
+}
+
+/*
+* field--field-album-pics.html.twig
+* elke foto in een flex-container dit zorgt ervoor dat elke
+* container met foto en beschrijving boven en onder geplaatst
+* worden
+*
+ */
+.photo__field--items-container {
+    background: #0e69be;
+    padding: 20px;
+    transition: background .3s;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.photo__field--items-container:hover {
+    background: gold;
+}
+
+.photo__field--item {
+}
+
+.photo {
+    width: 100%;
+ }
+
+.photo__title {
+    color: white;
+    padding: 15px 0;
+}
+
+.heading-tertiary {
+    color: white;
+    font-size: 20px;
+}
+
+
+/*
+ * om Bartik dingen te overschrijven
+ */
+.node--view-mode-teaser {
+    border-bottom: transparent;
+}
+
+.cover {
+    height: 100%;
+    object-fit: cover;
+}
+
+@media (min-width: 560px) {
+    .node .field--type-image {
+        float: none;
+        margin: 0;
+    }
+}
+
