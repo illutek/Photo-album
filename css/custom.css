@@ -26,23 +26,29 @@
 * om de album covers langs elkaar te plaatsen
 */
 .photo-album__view-content {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 20px;
 }
 
-@media only screen and (max-width: 600px) {
-    .photo-album__view-content {
-        flex-direction: column;
-    }
-}
+/*@media only screen and (max-width: 850px) {*/
+    /*.photo-album__view-content {*/
+        /*grid-template-columns: 1fr 1fr;*/
+    /*}*/
+/*}*/
+
+/*@media only screen and (max-width: 460px) {*/
+    /*.photo-album__view-content {*/
+        /*grid-template-columns: 1fr;*/
+    /*}*/
+/*}*/
 
 /*
 * De album covers zelf dus de flex items
 * views-view-unformatted--photo-albums.html.twig
 */
 .photo-album__views-row {
-    width: 24%;
+    /*width: 24%;*/
     background: dodgerblue;
     padding: 10px;
     text-align: center;

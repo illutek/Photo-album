@@ -27,10 +27,10 @@ Dit alles zonder extra modules afgezien van de colorbox.
    views-view--photo-albums.html.twig  
    Dit om een eigen class toe te voegen aan de parent container van de in stap 2 gemaakte view  
    Doe dit liever op dit niveau zou dit ook kunnen in de view zelf veronder stel ik.  
-   Op deze container met flex alle album covers langs elkaar.
+   Op deze container met css-grid alle album covers langs elkaar.
    
    views-view-unformatted--photo-albums.html.twig  
-   Hier een class om de flex-items een width en wat extra opmaak mee te geven.  
+   Hier een class om de grid items wat extra opmaak mee te geven.  
    
    field--field-album-pics.html.twig  
    De parent container van alle afbeeldingen op de volledige node met css-grid  
